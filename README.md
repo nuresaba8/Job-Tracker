@@ -1,0 +1,1 @@
+A website with expertise in building efficient Web APIs for streamlined job application tracking. Proficient in C#, SQL Server, and Entity Framework, with a focus on secure authentication, notifications, and seamless database integration.
